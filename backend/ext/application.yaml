@@ -1,0 +1,4 @@
+db:
+  url: "jdbc:mysql://backend-db:3306/osyc"
+  username: "osyc"
+  password: "osyc"
